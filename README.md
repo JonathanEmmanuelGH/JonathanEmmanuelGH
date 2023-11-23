@@ -12,12 +12,12 @@
 - 📄 CV and more Experiences [https://www.linkedin.com/in/jonaemmagh03/](https://www.linkedin.com/in/jonaemmagh03/)
 
 - ⚡ Project advising experience: 
--**Aeromexico** | Project administration and creation • 2021
--**AgriBest** | Investing and financial statements • 2022
--**High Battery** | Legal and Social Responsibility Check, Economic Viability, and Financial Feasibility • 2022
--**Arauco** | Technology Appliance and System Innovation by Implementing ERP, CRM, SCM • 2023
--**Oracle** | Formula 1 in Deep Score Analysis and Machine Learning Development • 2023
--**Prosociedad** | Database Management and Dashboard analysis • 2023
+- **Aeromexico** | Project administration and creation • 2021
+- **AgriBest** | Investing and financial statements • 2022
+- **High Battery** | Legal and Social Responsibility Check, Economic Viability, and Financial Feasibility • 2022
+- **Arauco** | Technology Appliance and System Innovation by Implementing ERP, CRM, SCM • 2023
+- **Oracle** | Formula 1 in Deep Score Analysis and Machine Learning Development • 2023
+- **Prosociedad** | Database Management and Dashboard analysis • 2023
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
