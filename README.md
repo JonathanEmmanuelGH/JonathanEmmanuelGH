@@ -3,7 +3,7 @@
 
 - 💬 Summary **Business Data Analytics graduate with 4 years of experience in data analysis and business intelligence. Proficient in SQL, Python, and R. Demonstrated leadership through student group initiatives and company roles at Aeroméxico, Cuarto de Kilo, and Prosociedad. Skilled in teamwork and problem-solving, with a strong focus on leveraging data for business impact.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/JonathanEmmanuelGH/Jonathan_Portfolio](https://github.com/JonathanEmmanuelGH/Jonathan_Portfolio)
+- 👨‍💻 All of my projects are available at [https://github.com/JonathanEmmanuelGH/Python_Portfolio_Jonathan](https://github.com/JonathanEmmanuelGH/Python_Portfolio_Jonathan)
 
 - 🧬 Data Management and Visualization Tools **SQL Server, MySQL, Oracle Cloud, Excel (Macro), Tableau, Power BI.**
 
