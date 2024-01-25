@@ -18,6 +18,7 @@
 - **Arauco** | Technology Appliance and System Innovation by Implementing ERP, CRM, SCM • 2023
 - **Oracle** | Formula 1 in Deep Score Analysis and Machine Learning Development • 2023
 - **Prosociedad** | Database Management and Dashboard analysis • 2023
+- **Proactible** | In depth Business Analysis by Database Management, Dashboard Analysis and Protocol Automation • 2024
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
