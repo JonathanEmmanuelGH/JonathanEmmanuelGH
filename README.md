@@ -19,6 +19,7 @@
 - **Oracle** | Formula 1 in Deep Score Analysis and Machine Learning Development • 2023
 - **Prosociedad** | Database Management and Dashboard analysis • 2023
 - **Proactible** | In depth Business Analysis by Database Management, Dashboard Analysis and Protocol Automation • 2024
+- **PiSA** | Developed a web application to display AI-generated data insights, implementing K-Nearest Neighbors (KNN), SVD, and ALS algorithms for product recommendations. Utilized neural networks with PyTorch and other machine learning techniques in Python, integrating additional data to enhance prediction accuracy • 2024
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
