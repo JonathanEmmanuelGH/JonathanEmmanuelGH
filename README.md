@@ -1,17 +1,17 @@
 <h1 align="center">I'm Jonathan Emmanuel García Hernández</h1>
 <h3 align="center">Ai and Software dev enthusiast | Undergraduate | Business Intelligence</h3>
 
-- 💬 Summary **Business Data Analytics graduate with 4 years of experience in data analysis and business intelligence. Proficient in SQL, Python, and R. Demonstrated leadership through student group initiatives and company roles at Aeroméxico, Cuarto de Kilo, and Prosociedad. Skilled in teamwork and problem-solving, with a strong focus on leveraging data for business impact.**
+-  Summary **Business Data Analytics graduate with 4 years of experience in data analysis and business intelligence. Proficient in SQL, Python, and R. Demonstrated leadership through student group initiatives and company roles at Aeroméxico, Cuarto de Kilo, and Prosociedad. Skilled in teamwork and problem-solving, with a strong focus on leveraging data for business impact.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/JonathanEmmanuelGH/Python_Portfolio_Jonathan](https://github.com/JonathanEmmanuelGH/)
+-  All of my projects are available at [https://github.com/JonathanEmmanuelGH/Python_Portfolio_Jonathan](https://github.com/JonathanEmmanuelGH/)
 
-- 🧬 Data Management and Visualization Tools **SQL Server, MySQL, Oracle Cloud, Excel (Macro), Tableau, Power BI.**
+-  Data Management and Visualization Tools **SQL Server, MySQL, Oracle Cloud, Excel (Macro), Tableau, Power BI.**
 
-- 📫 E-mail **ti.jona.garher@gmail.com**
+-  E-mail **ti.jona.garher@gmail.com**
 
-- 📄 CV and more Experiences [https://www.linkedin.com/in/jonaemmagh03/](https://www.linkedin.com/in/jonaemmagh03/)
+-  CV and more Experiences [https://www.linkedin.com/in/jonaemmagh03/](https://www.linkedin.com/in/jonaemmagh03/)
 
-- ⚡ Project advising experience: 
+-  Project advising experience: 
 - **Aeromexico** | Project administration and creation • 2021
 - **AgriBest** | Investing and financial statements • 2022
 - **High Battery** | Legal and Social Responsibility Check, Economic Viability, and Financial Feasibility • 2022
