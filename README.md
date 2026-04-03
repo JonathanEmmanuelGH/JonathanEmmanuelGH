@@ -1,7 +1,7 @@
 <h1 align="center">I'm Jonathan Emmanuel García Hernández</h1>
 <h3 align="center">Ai and Software dev enthusiast | Undergraduate | Business Intelligence</h3>
 
--  Summary **Business Data Analytics graduate with 4 years of experience in data analysis and business intelligence. Proficient in SQL, Python, and R. Demonstrated leadership through student group initiatives and company roles at Aeroméxico, Cuarto de Kilo, and Prosociedad. Skilled in teamwork and problem-solving, with a strong focus on leveraging data for business impact.**
+-  Summary **Business Data Analytics graduate with 1 years of experience in data analysis and business intelligence. Proficient in SQL, Python, and R. Demonstrated leadership through student group initiatives and company roles at Aeroméxico, Cuarto de Kilo, and Prosociedad. Skilled in teamwork and problem-solving, with a strong focus on leveraging data for business impact.**
 
 -  All of my projects are available at [https://github.com/JonathanEmmanuelGH/Python_Portfolio_Jonathan](https://github.com/JonathanEmmanuelGH/)
 
@@ -12,14 +12,12 @@
 -  CV and more Experiences [https://www.linkedin.com/in/jonaemmagh03/](https://www.linkedin.com/in/jonaemmagh03/)
 
 -  Project advising experience: 
-- **Aeromexico** | Project administration and creation • 2021
-- **AgriBest** | Investing and financial statements • 2022
-- **High Battery** | Legal and Social Responsibility Check, Economic Viability, and Financial Feasibility • 2022
-- **Arauco** | Technology Appliance and System Innovation by Implementing ERP, CRM, SCM • 2023
 - **Oracle** | Formula 1 in Deep Score Analysis and Machine Learning Development • 2023
 - **Prosociedad** | Database Management and Dashboard analysis • 2023
 - **Proactible** | In depth Business Analysis by Database Management, Dashboard Analysis and Protocol Automation • 2024
 - **PiSA** | Developed a web application to display AI-generated data insights, implementing K-Nearest Neighbors (KNN), SVD, and ALS algorithms for product recommendations. Utilized neural networks with PyTorch and other machine learning techniques in Python, integrating additional data to enhance prediction accuracy • 2024
+- **Teradata** | Solution Analyst Intern • 2025
+Developed a multi-class classification model (logistic regression) to predict the next best sales step for ~62k Salesforce opportunities, achieving ~80% accuracy and 0.76 Macro F1 using structured and unstructured interaction data with sentiment analysis. Built AI-powered n8n automation workflows including a document PII extraction agent (PDF/DOCX/CSV) with GDPR compliance classification, and a chat-based SQL prompt testing harness that validates Teradata dialect compliance across auto-generated question variants, all powered by Claude on AWS Bedrock.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
